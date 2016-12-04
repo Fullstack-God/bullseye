@@ -302,6 +302,7 @@
 				D7154A301DEAC198000E9082 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
